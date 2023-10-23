@@ -7,7 +7,7 @@ import (
 	"first-api/Routes"
 	"fmt"
 
-	"github.com/jinzhu/gorm"
+	"github.com/vishal"
 )
 
 var err error
